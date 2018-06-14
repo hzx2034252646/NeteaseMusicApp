@@ -1,0 +1,25 @@
+{
+  "name": "neteasemusicapp",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "hzx2034252646 <2034252646@qq.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },  
+  "dependencies": {
+    "axios": "^0.17.1",
+    "mint-ui": "^2.2.13",
+    "nuxt": "^1.0.0-rc11",
+    "vue-indicator": "0.0.7"
+  },
+  "config": {
+    "nuxt": {
+      "host": "localhost",
+      "port": "8080"
+    }
+  }
+}
