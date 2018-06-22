@@ -22,3 +22,25 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## 项目截图
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/1.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/2.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/3.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/4.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/5.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/6.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/7.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/8.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/9.png)
+
+![](https://raw.githubusercontent.com/hzx2034252646/NeteaseMusicApp/master/screenshot/10.png)
